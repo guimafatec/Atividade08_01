@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atividade08_01</string>
+    <string name="my_name">Gustavo Guimarães de Oliveira</string>
+    <string name="my_ra">1110482313013</string>
+    <string name="etIdentificador">Identificador</string>
+    <string name="etValorIngresso">Valor do Ingresso</string>
+    <string name="etFuncao">Função</string>
+    <string name="cbxVip">Ingresso VIP</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnVoltar">Voltar</string>
+</resources>
